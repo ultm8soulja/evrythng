@@ -21,3 +21,6 @@ The following properties could be useful:
 * Number of keys struck (per day)
 * Temperature of device (twice a day)
 * Identity of a struck key, as well as its deviation (if any) from the expected pitch
+
+
+Start point [here] (https://github.com/ultm8soulja/evrythng/blob/master/src/main/java/co/uk/softwaredojo/evrythng/evrythngapidemo/PianoExample.java)
