@@ -127,7 +127,7 @@ public class PianoExample extends ExampleRunner {
 	}
 
 	public static void main(String[] args) throws EvrythngException {
-		ApiConfiguration config = new ApiConfiguration("kg9ujGSLGt3sZ5ZQMH6ZyDJVfPTiXvQPZMiLBFeYEhhkXs99JwEhzYQuDAiMu6nl3CjuzFxdxw5y3HeN");
+		ApiConfiguration config = new ApiConfiguration("XXXXX");
 
 		PianoExample example = new PianoExample(config);
 		example.run();
